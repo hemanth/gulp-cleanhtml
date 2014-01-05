@@ -1,0 +1,29 @@
+{
+  "name": "gulp-cleanhtml",
+  "version": "0.0.1",
+  "description": "Removes unneeded whitespaces, line-breaks, comments, etc from HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hemanth/gulp-cleanhtml"
+  },
+  "keywords": [
+    "log",
+    "console",
+    "gulpplugin"
+  ],
+  "author": "Hemanth.HM",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/hemanth/gulp-cleanhtml/issues"
+  },
+  "homepage": "https://github.com/hemanth/gulp-cleanhtml",
+  "dependencies": {
+    "htmlclean": "~2.0.0",
+    "gulp-util": "~2.2.5",
+    "event-stream": "~3.0.20"
+  }
+}
