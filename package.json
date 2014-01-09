@@ -1,6 +1,6 @@
 {
   "name": "gulp-cleanhtml",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Removes unneeded whitespaces, line-breaks, comments, etc from HTML",
   "main": "index.js",
   "scripts": {
