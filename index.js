@@ -1,5 +1,4 @@
 'use strict';
-var map = require('map-stream');
 var es = require('event-stream');;
 var gutil = require('gulp-util');
 var htmlClean = require('htmlclean');
