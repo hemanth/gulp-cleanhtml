@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/hemanth/gulp-cleanhtml",
   "dependencies": {
-    "htmlclean": "~2.0.0",
-    "gulp-util": "~2.2.5",
-    "event-stream": "~3.0.20"
+    "htmlclean": "~2.2.3",
+    "gulp-util": "~3.0.1",
+    "event-stream": "~3.1.7"
   }
 }
