@@ -4,7 +4,7 @@
   "description": "Removes unneeded whitespaces, line-breaks, comments, etc from HTML",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test.js"
   },
   "repository": {
     "type": "git",
@@ -25,5 +25,8 @@
     "htmlclean": "~2.2.3",
     "gulp-util": "~3.0.1",
     "event-stream": "~3.1.7"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
   }
 }

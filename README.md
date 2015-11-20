@@ -1,4 +1,5 @@
-# gulp-cleanhtml [![NPM version][npm-image]][npm-url] [![Build status][travis-image]][travis-url]
+# gulp-cleanhtml [![NPM version][npm-image]][npm-url] [![Build Status](https://travis-ci.org/hemanth/gulp-cleanhtml.svg?branch=master)](https://travis-ci.org/hemanth/gulp-cleanhtml)
+
 > Cleans your HTML using [htmlclean](https://github.com/anseki/htmlclean)
 
 ## Usage
@@ -22,8 +23,7 @@ gulp.task('default', function(){
 ```
 The above will remove unneeded whitespaces, line-breaks, comments, etc from the HTML. 
 
-[travis-url]: http://travis-ci.org/hemanth/gulp-cleanhtml
-[travis-image]: https://secure.travis-ci.org/lazd/gulp-cleanhtml.png?branch=master
+
 [npm-url]: https://npmjs.org/package/gulp-cleanhtml
 [npm-image]: https://badge.fury.io/js/gulp-repl.png
 
