@@ -24,7 +24,7 @@
   "dependencies": {
     "htmlclean": "~2.7.7",
     "gulp-util": "~3.0.1",
-    "event-stream": "~3.1.7"
+    "event-stream": "~3.3.4"
   },
   "devDependencies": {
     "mocha": "^2.3.4"
