@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/hemanth/gulp-cleanhtml",
   "dependencies": {
-    "htmlclean": "~2.7.7",
+    "htmlclean": "~3.0.0",
     "gulp-util": "~3.0.7",
     "event-stream": "~3.3.4"
   },
